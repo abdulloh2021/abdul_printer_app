@@ -1,3 +1,5 @@
+Personal Printer App Project
+
 Latar Belakang dan Tujuan :
 
 Di kantor, sering terjadi masalah ketidaksesuaian data printer dengan kondisi di lapangan, terutama saat printer sedang diservis atau saat pengguna perlu menghubungkannya kembali ke PC. Aplikasi ini bertujuan untuk mempermudah pengelolaan data printer dan memastikan data selalu akurat, sehingga pekerjaan menjadi lebih efisien.
@@ -48,6 +50,7 @@ Arsitektur Sistem:
 -	Framework: Flutter digunakan untuk pengembangan aplikasi lintas platform.
 
 Tantangan Dalam Pengembangan Sistem
+- Kurangnya pengetahuan dari segi backend sehingga aplikasi ini menggunakan API online dan data static sehingga belum bias digunakan 100%.
 -	Integrasi QR Code Scanner: Memastikan semua QR code dapat dibaca dengan baik di berbagai kondisi pencahayaan.
 -	Pengelolaan Data Offline: Menyimpan data sementara saat tidak ada koneksi internet.
 -	Desain Antarmuka: Membuat UI yang intuitif agar mudah digunakan oleh semua pengguna.
