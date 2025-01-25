@@ -1,5 +1,7 @@
 Personal Printer App Project
 
+My Linked in :
+https://www.linkedin.com/posts/abdulloh-abdulloh-83a7bb225_while-this-app-works-theres-always-room-activity-7288910404418781185-uOj_?utm_source=share&utm_medium=member_desktop
 Latar Belakang dan Tujuan :
 
 Di kantor, sering terjadi masalah ketidaksesuaian data printer dengan kondisi di lapangan, terutama saat printer sedang diservis atau saat pengguna perlu menghubungkannya kembali ke PC. Aplikasi ini bertujuan untuk mempermudah pengelolaan data printer dan memastikan data selalu akurat, sehingga pekerjaan menjadi lebih efisien.
