@@ -15,7 +15,27 @@ o	Mengintegrasikan data printer dengan status real-time menggunakan teknologi mo
 
 
 Gambar Pendukung
-(Tambahkan gambar atau ilustrasi sistem di sini)
+Contoh QR Code
+![DET001401](https://github.com/user-attachments/assets/379c7486-b644-4da2-81b1-ead69110d303)
+DET001401
+![DET001402](https://github.com/user-attachments/assets/cedb8b6b-d937-4236-83a5-b41ab0646d21)
+DET001402
+![DET001403](https://github.com/user-attachments/assets/0bc6551e-01a7-44da-9c06-5c1450c95a0f)
+DET001403
+
+Login Page dan example untuk login 
+![WhatsApp Image 2025-01-25 at 19 45 29](https://github.com/user-attachments/assets/24b4fade-dd7b-4c34-b597-6a559644e455)
+![WhatsApp Image 2025-01-25 at 19 45 28 (2)](https://github.com/user-attachments/assets/7310e979-0e72-4105-a375-4027f5a75ea7)
+
+Dashboard dan ScanPage
+![WhatsApp Image 2025-01-25 at 19 45 28 (1)](https://github.com/user-attachments/assets/21a000c3-0be2-4689-b943-5490a6068269)
+![WhatsApp Image 2025-01-25 at 19 45 27 (1)](https://github.com/user-attachments/assets/f078d742-e913-4bfb-b0be-e18dc47cf118)
+
+Profile dan Detail page
+![WhatsApp Image 2025-01-25 at 19 45 28](https://github.com/user-attachments/assets/462a9adb-33b8-4da6-9962-47a3c791e0eb)
+![WhatsApp Image 2025-01-25 at 19 45 27 (2)](https://github.com/user-attachments/assets/04bb9118-4da6-49ae-81ea-8beb5c6eb4d6)
+![WhatsApp Image 2025-01-25 at 19 45 27](https://github.com/user-attachments/assets/a493dbd5-4d80-4bca-9338-48dd7777c7f9)
+
 
 Teknologi dan Arsitektur SistemTeknologi yang Digunakan:
 -	HTTP Library: Untuk menghubungkan aplikasi dengan API backend.
