@@ -60,4 +60,3 @@ Tantangan Dalam Pengembangan Sistem
 
 Kesimpulan
 Aplikasi ini membantu mengatasi masalah ketidaksesuaian data printer di lapangan dengan fitur-fitur modern seperti pemindai QR, pencarian printer, dan pengelolaan data secara efisien. Dengan teknologi seperti HTTP library, shared preferences, dan QR code scanner, aplikasi ini memberikan solusi praktis yang dapat meningkatkan produktivitas di tempat kerja.
-![image](https://github.com/user-attachments/assets/5531a8aa-7756-4ae7-8755-27dff569c470)
